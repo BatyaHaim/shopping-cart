@@ -91,6 +91,7 @@ body {
   z-index: 999;
 }
 
+
 .cart-title {
   text-align: center;
   font-weight: bold;
@@ -103,3 +104,12 @@ body {
 .clear-cart {
   width: 100%;
 }
+
+
+.column{
+  float: left;
+  width: 33.3333%;
+}
+
+
+
